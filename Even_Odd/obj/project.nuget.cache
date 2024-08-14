@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+zOoYQaPGOzENkfye7tlmuE8DLCnQya3mlMEyANsVoBhsiZ1+DAEjTjABPXyzO1m9qZNUX7S7voTyV6ImheCxw==",
+  "dgSpecHash": "um1Fkr0ClUskHH3GB6h6+LqckjwGDXSZP0c9bbmFTnD/TawOKX+wGcZoc4Or5ZB8UHCoHctdffpWvHkTMFnG7w==",
   "success": true,
-  "projectFilePath": "E:\\dotnet_Practice\\Even_Odd\\Even_Odd.csproj",
+  "projectFilePath": "E:\\dotnet_Practice\\Practices\\Even_Odd\\Even_Odd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

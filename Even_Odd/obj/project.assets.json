@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotnet_Practice\\Even_Odd\\Even_Odd.csproj",
+      "projectUniqueName": "E:\\dotnet_Practice\\Practices\\Even_Odd\\Even_Odd.csproj",
       "projectName": "Even_Odd",
-      "projectPath": "E:\\dotnet_Practice\\Even_Odd\\Even_Odd.csproj",
+      "projectPath": "E:\\dotnet_Practice\\Practices\\Even_Odd\\Even_Odd.csproj",
       "packagesPath": "C:\\Users\\Mitra\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet_Practice\\Even_Odd\\obj\\",
+      "outputPath": "E:\\dotnet_Practice\\Practices\\Even_Odd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mitra\\AppData\\Roaming\\NuGet\\NuGet.Config"

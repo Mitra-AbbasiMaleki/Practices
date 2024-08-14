@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dotnet_Practice\\Divisible\\Divisible.csproj": {}
+    "E:\\dotnet_Practice\\Practices\\Divisible\\Divisible.csproj": {}
   },
   "projects": {
-    "E:\\dotnet_Practice\\Divisible\\Divisible.csproj": {
+    "E:\\dotnet_Practice\\Practices\\Divisible\\Divisible.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dotnet_Practice\\Divisible\\Divisible.csproj",
+        "projectUniqueName": "E:\\dotnet_Practice\\Practices\\Divisible\\Divisible.csproj",
         "projectName": "Divisible",
-        "projectPath": "E:\\dotnet_Practice\\Divisible\\Divisible.csproj",
+        "projectPath": "E:\\dotnet_Practice\\Practices\\Divisible\\Divisible.csproj",
         "packagesPath": "C:\\Users\\Mitra\\.nuget\\packages\\",
-        "outputPath": "E:\\dotnet_Practice\\Divisible\\obj\\",
+        "outputPath": "E:\\dotnet_Practice\\Practices\\Divisible\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mitra\\AppData\\Roaming\\NuGet\\NuGet.Config"
