@@ -1,0 +1,16 @@
+E:\dotnet_Practice\Practices\Even_Odd\bin\Debug\net5.0\Even_Odd.exe
+E:\dotnet_Practice\Practices\Even_Odd\bin\Debug\net5.0\Even_Odd.deps.json
+E:\dotnet_Practice\Practices\Even_Odd\bin\Debug\net5.0\Even_Odd.runtimeconfig.json
+E:\dotnet_Practice\Practices\Even_Odd\bin\Debug\net5.0\Even_Odd.runtimeconfig.dev.json
+E:\dotnet_Practice\Practices\Even_Odd\bin\Debug\net5.0\Even_Odd.dll
+E:\dotnet_Practice\Practices\Even_Odd\bin\Debug\net5.0\ref\Even_Odd.dll
+E:\dotnet_Practice\Practices\Even_Odd\bin\Debug\net5.0\Even_Odd.pdb
+E:\dotnet_Practice\Practices\Even_Odd\obj\Debug\net5.0\Even_Odd.csproj.AssemblyReference.cache
+E:\dotnet_Practice\Practices\Even_Odd\obj\Debug\net5.0\Even_Odd.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_Practice\Practices\Even_Odd\obj\Debug\net5.0\Even_Odd.AssemblyInfoInputs.cache
+E:\dotnet_Practice\Practices\Even_Odd\obj\Debug\net5.0\Even_Odd.AssemblyInfo.cs
+E:\dotnet_Practice\Practices\Even_Odd\obj\Debug\net5.0\Even_Odd.csproj.CoreCompileInputs.cache
+E:\dotnet_Practice\Practices\Even_Odd\obj\Debug\net5.0\Even_Odd.dll
+E:\dotnet_Practice\Practices\Even_Odd\obj\Debug\net5.0\ref\Even_Odd.dll
+E:\dotnet_Practice\Practices\Even_Odd\obj\Debug\net5.0\Even_Odd.pdb
+E:\dotnet_Practice\Practices\Even_Odd\obj\Debug\net5.0\Even_Odd.genruntimeconfig.cache
