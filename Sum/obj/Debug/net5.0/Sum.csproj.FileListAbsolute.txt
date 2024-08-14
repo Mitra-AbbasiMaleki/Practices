@@ -1,0 +1,16 @@
+E:\dotnet_Practice\Sum\bin\Debug\net5.0\Sum.exe
+E:\dotnet_Practice\Sum\bin\Debug\net5.0\Sum.deps.json
+E:\dotnet_Practice\Sum\bin\Debug\net5.0\Sum.runtimeconfig.json
+E:\dotnet_Practice\Sum\bin\Debug\net5.0\Sum.runtimeconfig.dev.json
+E:\dotnet_Practice\Sum\bin\Debug\net5.0\Sum.dll
+E:\dotnet_Practice\Sum\bin\Debug\net5.0\ref\Sum.dll
+E:\dotnet_Practice\Sum\bin\Debug\net5.0\Sum.pdb
+E:\dotnet_Practice\Sum\obj\Debug\net5.0\Sum.csproj.AssemblyReference.cache
+E:\dotnet_Practice\Sum\obj\Debug\net5.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_Practice\Sum\obj\Debug\net5.0\Sum.AssemblyInfoInputs.cache
+E:\dotnet_Practice\Sum\obj\Debug\net5.0\Sum.AssemblyInfo.cs
+E:\dotnet_Practice\Sum\obj\Debug\net5.0\Sum.csproj.CoreCompileInputs.cache
+E:\dotnet_Practice\Sum\obj\Debug\net5.0\Sum.dll
+E:\dotnet_Practice\Sum\obj\Debug\net5.0\ref\Sum.dll
+E:\dotnet_Practice\Sum\obj\Debug\net5.0\Sum.pdb
+E:\dotnet_Practice\Sum\obj\Debug\net5.0\Sum.genruntimeconfig.cache

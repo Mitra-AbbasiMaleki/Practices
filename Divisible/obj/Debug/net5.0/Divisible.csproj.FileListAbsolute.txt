@@ -1,0 +1,16 @@
+E:\dotnet_Practice\Divisible\obj\Debug\net5.0\Divisible.csproj.AssemblyReference.cache
+E:\dotnet_Practice\Divisible\obj\Debug\net5.0\Divisible.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_Practice\Divisible\obj\Debug\net5.0\Divisible.AssemblyInfoInputs.cache
+E:\dotnet_Practice\Divisible\obj\Debug\net5.0\Divisible.AssemblyInfo.cs
+E:\dotnet_Practice\Divisible\obj\Debug\net5.0\Divisible.csproj.CoreCompileInputs.cache
+E:\dotnet_Practice\Divisible\bin\Debug\net5.0\Divisible.exe
+E:\dotnet_Practice\Divisible\bin\Debug\net5.0\Divisible.deps.json
+E:\dotnet_Practice\Divisible\bin\Debug\net5.0\Divisible.runtimeconfig.json
+E:\dotnet_Practice\Divisible\bin\Debug\net5.0\Divisible.runtimeconfig.dev.json
+E:\dotnet_Practice\Divisible\bin\Debug\net5.0\Divisible.dll
+E:\dotnet_Practice\Divisible\bin\Debug\net5.0\ref\Divisible.dll
+E:\dotnet_Practice\Divisible\bin\Debug\net5.0\Divisible.pdb
+E:\dotnet_Practice\Divisible\obj\Debug\net5.0\Divisible.dll
+E:\dotnet_Practice\Divisible\obj\Debug\net5.0\ref\Divisible.dll
+E:\dotnet_Practice\Divisible\obj\Debug\net5.0\Divisible.pdb
+E:\dotnet_Practice\Divisible\obj\Debug\net5.0\Divisible.genruntimeconfig.cache
