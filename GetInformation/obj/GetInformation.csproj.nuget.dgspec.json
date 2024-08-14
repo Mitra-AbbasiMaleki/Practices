@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dotnet_Practice\\GetInformation\\GetInformation.csproj": {}
+    "E:\\dotnet_Practice\\Practices\\GetInformation\\GetInformation.csproj": {}
   },
   "projects": {
-    "E:\\dotnet_Practice\\GetInformation\\GetInformation.csproj": {
+    "E:\\dotnet_Practice\\Practices\\GetInformation\\GetInformation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dotnet_Practice\\GetInformation\\GetInformation.csproj",
+        "projectUniqueName": "E:\\dotnet_Practice\\Practices\\GetInformation\\GetInformation.csproj",
         "projectName": "GetInformation",
-        "projectPath": "E:\\dotnet_Practice\\GetInformation\\GetInformation.csproj",
+        "projectPath": "E:\\dotnet_Practice\\Practices\\GetInformation\\GetInformation.csproj",
         "packagesPath": "C:\\Users\\Mitra\\.nuget\\packages\\",
-        "outputPath": "E:\\dotnet_Practice\\GetInformation\\obj\\",
+        "outputPath": "E:\\dotnet_Practice\\Practices\\GetInformation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mitra\\AppData\\Roaming\\NuGet\\NuGet.Config"

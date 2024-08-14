@@ -8,16 +8,16 @@ namespace GetInformation
         {
             string FirstName, LastName, Gender, MobileNumber;
             int Age, Year;
-            ulong Number;
+            ulong Number=0;
             int ThisYear = 1403;
             bool isnumber,flag,check;
-            Console.WriteLine("Please Enter Your Fist Name!");
+            Console.WriteLine("Please Enter Your First Name!");
             FirstName = Console.ReadLine();
             while (FirstName == "")
             {
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine("\nPlease Enter Your Fist Name");
+                Console.WriteLine("\nPlease Enter Your First Name");
                 Console.BackgroundColor = ConsoleColor.Black;
                 Console.ForegroundColor = ConsoleColor.Gray;
                 FirstName = Console.ReadLine();
@@ -100,7 +100,7 @@ namespace GetInformation
             Console.BackgroundColor = ConsoleColor.DarkBlue;
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("\nYour Name is : " + FirstName + " " + LastName);
-            //Console.WriteLine("\nYour Mobile Number is : "+ Number);
+            Console.WriteLine("\nYour Mobile Number is : "+ Number);
             Console.WriteLine("\nYou Are " +Gender+" and You Are "+ Age + " Year's Old\n") ;
 
             if (Gender == "Femail" && Age >= 15)
